@@ -1,0 +1,27 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1666856060890,1713,LaunchApp-1,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,6110,2575,1,1,null,0,2142,0
+1666856063018,574,LaunchApp-1,200,OK,Thread Group 1-1,text,true,,664,448,1,1,http://3.145.22.134:1080/Webtours/,574,0,293
+1666856063595,263,LaunchApp-2,200,OK,Thread Group 1-1,text,true,,1007,504,1,1,http://3.145.22.134:1080/Webtours/header.html,262,0,0
+1666856063858,311,LaunchApp-3,200,OK,Thread Group 1-1,text,true,,1025,515,1,1,http://3.145.22.134:1080/cgi-bin/welcome.pl?signOff=true,310,0,0
+1666856064174,261,LaunchApp-7,200,OK,Thread Group 1-1,text,true,,1659,552,1,1,http://3.145.22.134:1080/WebTours/home.html,261,0,0
+1666856064437,304,LaunchApp-6,200,OK,Thread Group 1-1,text,true,,1755,556,1,1,http://3.145.22.134:1080/cgi-bin/nav.pl?in=home,301,0,0
+1666856064746,1789,Login-10,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,3753,2092,1,1,null,0,8020,0
+1666856068748,596,Login-10,200,OK,Thread Group 1-1,text,true,,844,791,1,1,http://3.145.22.134:1080/cgi-bin/login.pl,593,0,274
+1666856071345,599,Login-12,200,OK,Thread Group 1-1,text,true,,1159,648,1,1,http://3.145.22.134:1080/cgi-bin/login.pl?intro=true,590,0,256
+1666856073960,594,Login-11,200,OK,Thread Group 1-1,text,true,,1750,653,1,1,http://3.145.22.134:1080/cgi-bin/nav.pl?page=menu&in=home,592,0,267
+1666856074555,1166,Flights-17,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,7113,2008,1,1,null,0,2007,0
+1666856076559,560,Flights-17,200,OK,Thread Group 1-1,text,true,,844,667,1,1,http://3.145.22.134:1080/cgi-bin/welcome.pl?page=search,560,0,259
+1666856077120,298,Flights-18,200,OK,Thread Group 1-1,text,true,,1749,670,1,1,http://3.145.22.134:1080/cgi-bin/nav.pl?page=menu&in=flights,296,0,0
+1666856077419,308,Flights-19,200,OK,Thread Group 1-1,text,true,,4520,671,1,1,http://3.145.22.134:1080/cgi-bin/reservations.pl?page=welcome,306,0,0
+1666856077728,1216,SignOff-23,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,3808,1787,1,1,null,0,2010,0
+1666856079735,578,SignOff-23,200,OK,Thread Group 1-1,text,true,,1026,668,1,1,http://3.145.22.134:1080/cgi-bin/welcome.pl?signOff=1,565,0,259
+1666856080314,330,SignOff-24,200,OK,Thread Group 1-1,text,true,,1025,566,1,1,http://3.145.22.134:1080/cgi-bin/welcome.pl?signOff=1,322,0,0
+1666856080646,308,SignOff-25,200,OK,Thread Group 1-1,text,true,,1757,553,1,1,http://3.145.22.134:1080/cgi-bin/nav.pl?in=home,307,0,0
+1666856080955,1688,LaunchApp-1,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,6108,2659,1,1,null,0,2016,0
+1666856082966,528,LaunchApp-1,200,OK,Thread Group 1-1,text,true,,664,476,1,1,http://3.145.22.134:1080/Webtours/,528,0,260
+1666856083495,261,LaunchApp-2,200,OK,Thread Group 1-1,text,true,,1007,532,1,1,http://3.145.22.134:1080/Webtours/header.html,261,0,0
+1666856083757,327,LaunchApp-3,200,OK,Thread Group 1-1,text,true,,1025,543,1,1,http://3.145.22.134:1080/cgi-bin/welcome.pl?signOff=true,327,0,0
+1666856084085,261,LaunchApp-7,200,OK,Thread Group 1-1,text,true,,1659,552,1,1,http://3.145.22.134:1080/WebTours/home.html,261,0,0
+1666856084347,311,LaunchApp-6,200,OK,Thread Group 1-1,text,true,,1753,556,1,1,http://3.145.22.134:1080/cgi-bin/nav.pl?in=home,301,0,0
+1666856084659,4591,Login-10,200,,Thread Group 1-1,,true,,845,790,1,1,null,0,0,0
+1666856088660,590,Login-10,200,OK,Thread Group 1-1,text,true,,845,790,1,1,http://3.145.22.134:1080/cgi-bin/login.pl,584,0,261
